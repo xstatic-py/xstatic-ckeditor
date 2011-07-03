@@ -41,7 +41,7 @@ class CKEditor(XStatic):
     homepage = 'http://ckeditor.com/'
 
     # this refers to all files:
-    license = '(same a %s)' % display_name
+    license = '(same as %s)' % display_name
 
     locations = {
     }
