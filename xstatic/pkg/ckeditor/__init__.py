@@ -16,7 +16,7 @@ except ImportError:
 class CKEditor(XStatic):
     name = 'ckeditor' # short, all lowercase name
     display_name = 'CKEditor' # official name, upper/lowercase allowed
-    version = '3.6.1.0' # for simplicity, use same version x.y.z as bundled files
+    version = '3.6.1.1' # for simplicity, use same version x.y.z as bundled files
                         # additionally we append .b for our build number, so we
                         # can release new builds with fixes for xstatic stuff.
 
